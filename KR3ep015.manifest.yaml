@@ -1,0 +1,467 @@
+canonical_identifier: bkk:krp/KR3ep015/v1
+canonical_location: https://kanripo.org/bkk/KR3ep015/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 馬培之醫案
+  identifiers:
+    krp: KR3ep015
+  tags:
+    kr-categories: KR3ep
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep015.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ep015_000.yaml, hash: 'sha256:1c790505236f1030ca7faab9490e0cdae28cc63462e901d55c1b01f9abbc66de'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ep015_000.markers.yaml, hash: 'sha256:8099b0439554720a0fbad8eb239add7531355e052046d838c453d56f844c9e99'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 158
+  label: 疔毒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d3.h1s1
+    span:
+    - body
+    - 158
+    - 228
+  label: 血痣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d4.h1s1
+    span:
+    - body
+    - 228
+    - 823
+  label: 骨槽風
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d5.h1s1
+    span:
+    - body
+    - 823
+    - 897
+  label: 舌菌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d6.h1s1
+    span:
+    - body
+    - 897
+    - 1004
+  label: 牙菌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d7.h1s1
+    span:
+    - body
+    - 1004
+    - 1190
+  label: 牙岩
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d8.h1s1
+    span:
+    - body
+    - 1190
+    - 1277
+  label: 舌岩
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d9.h1s1
+    span:
+    - body
+    - 1277
+    - 1452
+  label: 舌疳
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d10.h1s1
+    span:
+    - body
+    - 1452
+    - 1553
+  label: 鎖喉毒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d11.h1s1
+    span:
+    - body
+    - 1553
+    - 1713
+  label: 盤槽癰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d12.h1s1
+    span:
+    - body
+    - 1713
+    - 1870
+  label: 對口
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d13.h1s1
+    span:
+    - body
+    - 1870
+    - 1975
+  label: 瘰癧
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d14.h1s1
+    span:
+    - body
+    - 1975
+    - 2267
+  label: 失榮
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d15.h1s1
+    span:
+    - body
+    - 2267
+    - 2892
+  label: 乳岩
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d16.h1s1
+    span:
+    - body
+    - 2892
+    - 2979
+  label: 井疽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d17.h1s1
+    span:
+    - body
+    - 2979
+    - 3123
+  label: 蔽骨疽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d18.h1s1
+    span:
+    - body
+    - 3123
+    - 4042
+  label: 石疽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d19.h1s1
+    span:
+    - body
+    - 4042
+    - 4099
+  label: 疵疽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d20.h1s1
+    span:
+    - body
+    - 4099
+    - 4139
+  label: 附骨疽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d21.h1s1
+    span:
+    - body
+    - 4139
+    - 4206
+  label: 串臂漏
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d22.h1s1
+    span:
+    - body
+    - 4206
+    - 4380
+  label: 肛漏
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d23.h1s1
+    span:
+    - body
+    - 4380
+    - 5489
+  label: 肝癰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d23d22
+    span:
+    - body
+    - 4668
+    - 5489
+  label: 附論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d24.h1s1
+    span:
+    - body
+    - 5489
+    - 5706
+  label: 肺癰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d25.h1s1
+    span:
+    - body
+    - 5706
+    - 5783
+  label: 漫心癰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d26.h1s1
+    span:
+    - body
+    - 5783
+    - 6334
+  label: 馬刀癧
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d27.h1s1
+    span:
+    - body
+    - 6334
+    - 6392
+  label: 腎俞發
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d28.h1s1
+    span:
+    - body
+    - 6392
+    - 6971
+  label: 少腹癰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d29.h1s1
+    span:
+    - body
+    - 6971
+    - 7175
+  label: 縮腳癰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d30.h1s1
+    span:
+    - body
+    - 7175
+    - 7624
+  label: 流注
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d31.h1s1
+    span:
+    - body
+    - 7624
+    - 7884
+  label: 腎岩
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d32.h1s1
+    span:
+    - body
+    - 7884
+    - 7947
+  label: 脫囊
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d33.h1s1
+    span:
+    - body
+    - 7947
+    - 8039
+  label: 伏兔癰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d34.h1s1
+    span:
+    - body
+    - 8039
+    - 8125
+  label: 眼胞痰瘤
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d35.h1s1
+    span:
+    - body
+    - 8125
+    - 8160
+  label: 脾肚發
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d36.h1s1
+    span:
+    - body
+    - 8160
+    - 8248
+  label: 腸覃
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d37.h1s1
+    span:
+    - body
+    - 8248
+    - 8296
+  label: 胃脘癰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d38.h1s1
+    span:
+    - body
+    - 8296
+    - 8332
+  label: 舌根癰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d39.h1s1
+    span:
+    - body
+    - 8332
+    - 9375
+  label: 鶴膝風
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d39d6
+    span:
+    - body
+    - 8377
+    - 9375
+  label: 附論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d40.h1s1
+    span:
+    - body
+    - 9375
+    - 10904
+  label: 麻風論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d41.h1s1
+    span:
+    - body
+    - 10904
+    - 11722
+  label: 雞胸龜背
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d42.h1s1
+    span:
+    - body
+    - 11722
+    - 13120
+  label: 龜背庀
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep015_jc_000-d43.h1s1
+    span:
+    - body
+    - 13120
+    - 14036
+  label: 風注
+  type: section
+  level: 1
+hash: sha256:a070e816a61fa97fb90f504c2ef7a8064150c92eb509f608d6311ede5abd7c79
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
